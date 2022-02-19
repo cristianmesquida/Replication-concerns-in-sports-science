@@ -1,12 +1,8 @@
 # Replication-concerns-in-sports-science
 README for Major replication concerns in sports science: a narrative review of key methodological issues in the field. 
 
-Inside the folder R scripts, there are two additional folders:
--	The folder Figures contains R code used to create every figure. 
--	The folder Z-curve contains two files:
-I.	zcurve_protocol.docx contains the description of both the study selection protocol and how data was extracted and coded for the conduction of the z-curve analysis.
-II.	zcurve_data.xlsx contains the sample of studies excluded and included as well as the data coded from the included studies for z-curve analysis.
-
+Inside the folder R scripts, there are three additional folders:
+The folder Figures contains R code used to create every figure. 
 The folder Analyses contains two R scripts: 
 - power_calculations.r contains the R code and results for power calculations included as examples in the article. 
 - zcurve.r contains the R code and results for the z-curve analysis.
